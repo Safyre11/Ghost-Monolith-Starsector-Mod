@@ -1,0 +1,8 @@
+{
+"id":"hightech", # internal id
+"name":"Ghost Monolith", # displayed to the player
+"author":"Machine",
+"version":"1.6.1c",	
+"description":"Adds the high tech Tyrador Safeguard Coalition faction.\n\nRequires:\n     -LazyLib \n     -MagicLib\nSupports:\n     -Version Checker\n     -GraphicsLib\n     -Nexerelin",
+"gameVersion":"0.9.1a",
+}

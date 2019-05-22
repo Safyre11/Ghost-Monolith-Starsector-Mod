@@ -1,0 +1,26 @@
+{
+  "displayName": "Standard",
+  "fluxCapacitors": 23,
+  "fluxVents": 7,
+  "goalVariant": true,
+  "hullId": "GHMO_jormungandr",
+  "hullMods": [
+    "expanded_cargo_holds",
+    "efficiency_overhaul"
+  ],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "GHMO_jormungandr_standard",
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "lrpdlaser",
+        "WS0002": "lrpdlaser",
+        "WS0003": "lrpdlaser"
+      }
+    }
+  ],
+  "wings": []
+}

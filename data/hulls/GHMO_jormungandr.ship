@@ -1,0 +1,204 @@
+{
+  "bounds": [
+    210,
+    -91,
+    168,
+    -91,
+    161.5,
+    -83,
+    -81,
+    -83,
+    -97.5,
+    -99.5,
+    -145,
+    -99.5,
+    -149.5,
+    -88,
+    -191.5,
+    -85.5,
+    -217.5,
+    -60.5,
+    -229,
+    -27.5,
+    -229,
+    27.5,
+    -217.5,
+    60.5,
+    -191.5,
+    85.5,
+    -149.5,
+    88,
+    -145,
+    99.5,
+    -97.5,
+    99.5,
+    -81,
+    83,
+    161.5,
+    83,
+    168,
+    91,
+    210,
+    91,
+    221,
+    81,
+    243,
+    17.5,
+    243,
+    -17.5,
+    221,
+    -81
+  ],
+  "builtInMods": [
+    "delicate",
+    "phasefield",
+    "insulatedengine",
+    "high_maintenance"
+  ],
+  "center": [
+    107,
+    232.5
+  ],
+  "collisionRadius": 263.5,
+  "engineSlots": [
+    {
+      "angle": 180,
+      "contrailSize": 14,
+      "length": 44,
+      "location": [
+        -230.5,
+        -20.5
+      ],
+      "style": "HIGH_TECH",
+      "width": 14
+    },
+    {
+      "angle": -180,
+      "contrailSize": 14,
+      "length": 44,
+      "location": [
+        -230.5,
+        20.5
+      ],
+      "style": "HIGH_TECH",
+      "width": 14
+    },
+    {
+      "angle": 180,
+      "contrailSize": 13,
+      "length": 80,
+      "location": [
+        -229.5,
+        -7
+      ],
+      "style": "HIGH_TECH",
+      "width": 13
+    },
+    {
+      "angle": -180,
+      "contrailSize": 13,
+      "length": 80,
+      "location": [
+        -229.5,
+        7
+      ],
+      "style": "HIGH_TECH",
+      "width": 13
+    },
+    {
+      "angle": 180,
+      "contrailSize": 13,
+      "length": 46,
+      "location": [
+        -222.5,
+        -37.5
+      ],
+      "style": "HIGH_TECH",
+      "width": 13
+    },
+    {
+      "angle": -180,
+      "contrailSize": 13,
+      "length": 46,
+      "location": [
+        -222.5,
+        37.5
+      ],
+      "style": "HIGH_TECH",
+      "width": 13
+    },
+    {
+      "angle": 180,
+      "contrailSize": 14,
+      "length": 39,
+      "location": [
+        -222.5,
+        -51.5
+      ],
+      "style": "HIGH_TECH",
+      "width": 14
+    },
+    {
+      "angle": -180,
+      "contrailSize": 14,
+      "length": 39,
+      "location": [
+        -222.5,
+        51.5
+      ],
+      "style": "HIGH_TECH",
+      "width": 14
+    }
+  ],
+  "height": 486,
+  "hullId": "GHMO_jormungandr",
+  "hullName": "Jormungandr",
+  "hullSize": "CAPITAL_SHIP",
+  "shieldCenter": [
+    6,
+    -0
+  ],
+  "shieldRadius": 254.5,
+  "spriteName": "graphics/ships/jormungandr/GHMO_jormungandr.png",
+  "style": "HIGH_TECH",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 0,
+      "arc": 240,
+      "id": "WS0003",
+      "locations": [
+        235.5,
+        -0
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "ENERGY"
+    },
+    {
+      "angle": 120,
+      "arc": 240,
+      "id": "WS0001",
+      "locations": [
+        -155.5,
+        80
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "ENERGY"
+    },
+    {
+      "angle": -120,
+      "arc": 240,
+      "id": "WS0002",
+      "locations": [
+        -155.5,
+        -80
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "ENERGY"
+    }
+  ],
+  "width": 214
+}
