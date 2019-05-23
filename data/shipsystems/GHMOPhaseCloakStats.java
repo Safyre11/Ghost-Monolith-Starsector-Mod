@@ -69,9 +69,7 @@ public class GHMOPhaseCloakStats extends BaseShipSystemScript {
                         if (state == State.OUT) {
                             if (effectLevel > 0.5F) {
                                 ship.setPhased(true);
-                                float flux = ship.getCurrFlux() - ship.getHardFluxLevel();
                                 ship.getFluxTracker().setHardFlux(0f);
-                                ship.getFluxTracker().setCurrFlux(flux);
                             } else {
                                 ship.setPhased(false);
                             }
