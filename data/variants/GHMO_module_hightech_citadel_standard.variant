@@ -1,0 +1,30 @@
+{
+  "variantId": "GHMO_module_hightech_citadel_standard",
+  "hullId": "GHMO_module_hightech_citadel",
+  "displayName": "New Variant",
+  "goalVariant": false,
+  "fluxCapacitors": 0,
+  "fluxVents": 0,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [],
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS 000": "GHMO_dualautopulse",
+        "WS 001": "GHMO_dualautopulse",
+        "WS 002": "pulselaser",
+        "WS 003": "pulselaser",
+        "WS 004": "lrpdlaser",
+        "WS 006": "lrpdlaser",
+        "WS 008": "lrpdlaser",
+        "WS 010": "pilum",
+        "WS 012": "pilum"
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}

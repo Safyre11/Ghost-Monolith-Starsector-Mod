@@ -1,0 +1,34 @@
+{
+  "variantId": "GHMO_module_hightech_attack_standard",
+  "hullId": "GHMO_module_hightech_attack",
+  "displayName": "Standard",
+  "goalVariant": false,
+  "fluxCapacitors": 0,
+  "fluxVents": 0,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [],
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS 000": "GHMO_dualautopulse",
+        "WS 001": "tachyonlance",
+        "WS 002": "GHMO_dualautopulse",
+        "WS 003": "gravitonbeam",
+        "WS 004": "phasebeam",
+        "WS 005": "phasebeam",
+        "WS 006": "gravitonbeam",
+        "WS 007": "harpoon",
+        "WS 008": "heatseeker",
+        "WS 009": "pdburst",
+        "WS 010": "pdburst",
+        "WS 011": "heatseeker",
+        "WS 012": "harpoon"
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}

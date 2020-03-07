@@ -1,0 +1,34 @@
+{
+  "hullName": "Station Armour",
+  "hullId": "GHMO_module_hightech_armour",
+  "hullSize": "FRIGATE",
+  "spriteName": "graphics/ships/stations/GHMO_module_hightech_armour.png",
+  "style": "HIGH_TECH",
+  "height": 112,
+  "width": 300,
+  "center": [150, 56],
+  "collisionRadius": 150,
+  "shieldCenter": [1, 0],
+  "shieldRadius": 150,
+  "viewOffset": 0,
+  "moduleAnchor": [
+    -345,
+    0
+  ],
+  "builtInMods": [
+    "reduced_explosion",
+    "always_detaches",
+    "anchorrotation",
+    "do_not_fire_through"
+  ],
+  "weaponSlots": [],
+  "engineSlots": [],
+  "bounds": [
+    4, 141,
+    47, 29,
+    47, -29,
+    4, -141,
+    -24, -128,
+    -25, 128
+  ]
+}
