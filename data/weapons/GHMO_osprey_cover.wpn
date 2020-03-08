@@ -1,0 +1,26 @@
+{
+  "id": "GHMO_osprey_cover",
+  "specClass": "beam",
+  "type": "DECORATIVE",
+  "size": "SMALL",
+  "turretSprite": "graphics/ships/osprey/GHMO_osprey_cover.png",
+  "hardpointSprite": "graphics/ships/osprey/GHMO_osprey_cover.png","showDamageWhenDecorative":true,
+  "renderBelowAllWeapons":false,
+  "turretOffsets": [
+    0,
+    0
+  ],
+  "turretAngleOffsets": [
+    0
+  ],
+  "hardpointOffsets": [
+    0,
+    0
+  ],
+  "hardpointAngleOffsets": [
+    0
+  ],
+  "barrelMode": "ALTERNATING",
+  "animationType": "NONE",
+  "textureType": ROUGH
+}

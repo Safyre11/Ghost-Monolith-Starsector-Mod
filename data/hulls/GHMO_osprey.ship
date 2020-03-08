@@ -1,0 +1,178 @@
+{
+  "hullName": "Osprey",
+  "hullId": "GHMO_osprey",
+  "hullSize": "CRUISER",
+  "spriteName": "graphics/ships/osprey/GHMO_osprey.png",
+  "style": "HIGH_TECH",
+  "height": 263,
+  "width": 202,
+  "center": [101, 121],
+  "collisionRadius": 174.5,
+  "shieldCenter": [7.5, -0],
+  "shieldRadius": 164,
+  "viewOffset": 0,
+  "builtInWeapons": {
+    "WS0010": "GHMO_osprey_cover"
+  },
+  "weaponSlots": [
+    {
+      "id": "WS0002",
+      "size": "LARGE",
+      "type": "ENERGY",
+      "mount": "HARDPOINT",
+      "arc": 5,
+      "angle": -0,
+      "locations": [74, 0]
+    },
+    {
+      "id": "WS0003",
+      "size": "MEDIUM",
+      "type": "ENERGY",
+      "mount": "HARDPOINT",
+      "arc": 5,
+      "angle": 0,
+      "locations": [111, 27],
+      "renderOrderMod": 10
+    },
+    {
+      "id": "WS0004",
+      "size": "MEDIUM",
+      "type": "ENERGY",
+      "mount": "HARDPOINT",
+      "arc": 5,
+      "angle": -0,
+      "locations": [111, -27],
+      "renderOrderMod": 11
+    },
+    {
+      "id": "WS0005",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 270,
+      "angle": 135,
+      "locations": [-72, 66]
+    },
+    {
+      "id": "WS0006",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 270,
+      "angle": -135,
+      "locations": [-72, -66]
+    },
+    {
+      "id": "WS0007",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 225,
+      "angle": 67.5,
+      "locations": [39, 57]
+    },
+    {
+      "id": "WS0008",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 225,
+      "angle": -67.5,
+      "locations": [39, -57]
+    },
+    {
+      "id": "WS0010",
+      "size": "SMALL",
+      "type": "DECORATIVE",
+      "mount": "TURRET",
+      "arc": 0,
+      "angle": 0,
+      "locations": [72, -0],
+      "renderOrderMod": 5
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-90, 19],
+      "length": 22,
+      "width": 17,
+      "angle": 180,
+      "contrailSize": 17,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-90, -19],
+      "length": 22,
+      "width": 17,
+      "angle": -180,
+      "contrailSize": 17,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-98, 36],
+      "length": 37,
+      "width": 17,
+      "angle": 180,
+      "contrailSize": 17,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-98, -36],
+      "length": 37,
+      "width": 17,
+      "angle": -180,
+      "contrailSize": 17,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-98, 50],
+      "length": 34,
+      "width": 10,
+      "angle": 180,
+      "contrailSize": 10,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-98, -50],
+      "length": 34,
+      "width": 10,
+      "angle": -180,
+      "contrailSize": 10,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-95, 62],
+      "length": 30,
+      "width": 10,
+      "angle": 180,
+      "contrailSize": 30,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-95, -62],
+      "length": 30,
+      "width": 10,
+      "angle": -180,
+      "contrailSize": 30,
+      "style": "HIGH_TECH"
+    }
+  ],
+  "bounds": [
+    83, 0,
+    120, -27,
+    46, -67.5,
+    10.5, -61,
+    -17.5, -80,
+    -92.5, -76.5,
+    -98, -31,
+    -75, 0,
+    -75, -0,
+    -98, 31,
+    -92.5, 76.5,
+    -17.5, 80,
+    10.5, 61,
+    46, 67.5,
+    120, 27,
+    83, -0
+  ]
+}
